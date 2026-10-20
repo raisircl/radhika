@@ -8,3 +8,6 @@ num=100
 myfun(num)
 print(f"Num={num} and id of num {id(num)}")
 
+# ref 2 program
+
+myfun(num)
